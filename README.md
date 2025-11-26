@@ -20,8 +20,7 @@ Página 1: Visão de Vendas (Performance e Canais)
 
 Para a análise de performance, utilizei o seguinte dashboard, que detalha o volume, o valor das vendas e os canais de distribuição:
 
-<img width="1224" height="866" alt="vendas" src="https://github.com/user-attachments/assets/5ca02c10-4e32-4eed-9ce3-0fe625fea5e9" />
-
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src="https://github.com/user-attachments/assets/5a5cda23-acc7-4bd1-82e0-b2f0c7dbecd9" />
 
 Esta página foca nos resultados financeiros e operacionais do e-commerce.
 
@@ -57,7 +56,7 @@ Página 2: Dashboard de Perfil do Cliente (Demografia e Renda)
 
 Esta página é dedicada à construção da Persona ideal do cliente, utilizando o seguinte painel para análise:
 
-<img width="1242" height="862" alt="perfil_cliente" src="https://github.com/user-attachments/assets/9133f1ba-1516-4425-a0e1-1e95cc5886a2" />
+<img width="1270" height="873" alt="Screenshot 2025-11-25 234832" src="https://github.com/user-attachments/assets/01b8bce2-53ec-41bc-9a8e-e8a71e58cb92" />
 
 Esta página é dedicada à construção da Persona ideal do cliente.
 
